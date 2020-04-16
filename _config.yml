@@ -1,4 +1,5 @@
 auto: true
 baseurl: ""
 exclude: README.md, deploy.sh
-pygments: true
+pygments: false
+highlighter: rouge
