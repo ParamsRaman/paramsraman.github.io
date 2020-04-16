@@ -1,4 +1,4 @@
 auto: true
-baseurl: /~praman1
+baseurl: ""
 exclude: README.md, deploy.sh
 pygments: true
