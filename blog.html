@@ -1,0 +1,25 @@
+---
+layout: default
+section: blog
+title: "Parameswaran Raman: Blog"
+---
+
+<h2> Blog </h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%h %d, %Y" }}</small> 
+    </li>
+  {% endfor %}
+</ul>
+
+<ul>
+    <li>
+        <a href="static/pub/math-for-ml.pdf">Math for Machine Learning</a>
+    </li>
+    <li>
+    A short <a href="static/pub/MMDS-Chap3 (Author - Parameswaran Raman).pdf">writeup</a> I wrote on finding similarity between items (at large scale). Based on Chap:3 of the book <i>"Mining of Massive Datasets" by Anand Rajaraman and Jeffrey Ullman</i>
+    </li>
+</ul>
