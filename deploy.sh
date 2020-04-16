@@ -25,4 +25,3 @@ git add --all
 git commit -m "updating $1"
 git push -u origin master
 
-
