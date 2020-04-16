@@ -22,6 +22,7 @@ jekyll build
 echo "Deploying to github.io"
 ./removesite.sh
 git add --all
-git commit -m "updating $1"
+git commit -m "$1"
 git push -u origin master
+
 
