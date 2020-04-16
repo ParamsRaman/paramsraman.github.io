@@ -11,9 +11,18 @@
 jekyll build
 
 # To deploy to https://people.ucsc.edu/~praman1/ (use blue)
-echo "Deploying to unix server (enter blue):"
-rsync -vaz _site/ praman1@unix.ic.ucsc.edu:public_html
+#echo "Deploying to unix server (enter blue):"
+#rsync -vaz _site/ praman1@unix.ic.ucsc.edu:public_html
 
 # To deploy to https://users.soe.ucsc.edu/~praman1 (use gold)
-echo "Deploying to citrisdance server (enter gold):"
-rsync -vaz _site/ praman1@citrisdance.soe.ucsc.edu:/soe/praman1/.html
+#echo "Deploying to citrisdance server (enter gold):"
+#rsync -vaz _site/ praman1@citrisdance.soe.ucsc.edu:/soe/praman1/.html
+
+# To deploy to github.io
+echo "Deploying to github.io"
+./removesite.sh
+git add --all
+git commit -m "updating $1"
+git push -u origin master
+
+

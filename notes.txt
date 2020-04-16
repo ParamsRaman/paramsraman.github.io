@@ -1,1 +1,0 @@
-use UCSC blue password while pushing the deployed website!
