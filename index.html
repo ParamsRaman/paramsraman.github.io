@@ -85,3 +85,56 @@ deal with massive datasets and model sizes.<br><br>
     href="static/pub/params-cv.pdf" style="color:#08c">CV</a>. <br> 
 <!--span>An overview of my research can be found <a href="static/pub/research-proposal.pdf">here (long version)</a> and <a href="static/pub/research-summary.pdf">here (short version)</a>. </span-->
 </p>
+
+<h3> PhD Thesis </h3>
+<ul>
+  <li class="paper">
+    <span class="title">
+      Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models
+      <!--a href="https://www.slideshare.net/secret/ozBtkzphmZTRNI"
+        style="color:#08c">[pdf]</a-->
+      <a href="static/pub/params_phd_thesis.pdf" style="color:#08c">[Thesis]</a>
+      <a href="https://www.slideshare.net/secret/ozBtkzphmZTRNI" style="color:#08c">[Slides]</a><br>
+    </span>
+    <!--input type="button" id="absbutton2" value="click to read abstract"><br>
+    <p id="abstract2" style="display:none;"><small>Distributed parameter
+      estimation algorithms in machine learning follow two main flavors: data parallel, where the data is
+      distributed across multiple workers and model parallel, where the model
+      parameters are partitioned across multiple workers. The main limitation of
+      the first approach is that the model parameters need to be replicated on
+      every machine. This is problematic when the number of parameters is very
+      large, and hence cannot fit in a single machine. This drawback of the
+      latter approach is that the data needs to be replicated on each machine.
+      In this thesis, I will present Hybrid-Parallelism, an approach that allows
+      us to partition both, the data as well as the model parameters
+      simultaneously. As a result, each worker only needs access to a subset of
+      the data and a subset of the parameters while performing parameter
+      updates. I will present case studies concerning popular models: (1)
+      Multinomial Logistic Regression (2) Mixture of Exponential Families,
+      (3) Latent Collaborative Retrieval, and (4) Factorization Machines. In all cases, 
+      I will show how to exploit the access pattern of parameter updates to derive Hybrid-Parallel asynchronous algorithms.
+    </small></p-->
+    </li>
+</ul>
+
+<h3> Open Source Software </h3>
+<ul>
+  <li class="paper">
+    <a href="https://bitbucket.org/params/dsmlr"
+      style="color:#08c"> DS-MLR: </a> Hybrid-Parallel stochastic optimization algorithm for Multinomial
+    Logistic Regression with large number of data points and large number of
+    classes.
+  </li>
+  <li class="paper">
+    <a href="https://bitbucket.org/params/dmixmodels"
+      style="color:#08c"> ESVI: </a> Hybrid-Parallel variational inference
+    algorithm for Mixture of Exponential Family models with large number of data
+    points and mixture components.
+  </li>
+  <li class="paper">
+    <a href="https://bitbucket.org/d\_ijk\_stra/robirank"
+      style="color:#08c"> RoBiRank: </a> Robust and scalable ranking algorithm
+    for Large Data (both learning to rank and latent collaborative retrieval).
+  </li>
+</ul>
+Code is released under the Apache License ver 2.0.
