@@ -137,4 +137,360 @@ deal with massive datasets and model sizes.<br><br>
     for Large Data (both learning to rank and latent collaborative retrieval).
   </li>
 </ul>
-Code is released under the Apache License ver 2.0.
+Code is released under the Apache License ver 2.0.<br>
+
+<h3> Publications</h3>
+
+<ul>
+  <li class="paper">
+    <span class="title">
+      scaling multinomial logistic regression via hybrid parallelism
+      <a href="static/pub/mlr-kdd19.pdf" style="color:
+      #08c">[paper]</a>
+      <a href="https://bitbucket.org/params/dsmlr" style="color:#08c">[code]</a>
+      <a href="https://www.youtube.com/watch?v=1ydtsldkvno" style="color:#08c">[promo video]</a>
+      <a href="static/pub/dsmlr_kdd19_poster.pdf" style="color:#08c">[poster]</a>
+      <a href="static/pub/dsmlr_kdd19_slides_short.pdf" style="color:#08c">[slides]</a><br>
+    </span>
+    <span class="me">parameswaran raman</span>, sriram srinivasan, shin matsushima, xinhua zhang, hyokun yun, s.v.n. vishwanathan <br>
+    <b>acm sigkdd conference on knowledge discovery and data mining
+      (kdd), 2019</b>. <br/><small style="color: #0000ff">accepted as oral presentation (9.16 % acceptance
+      rate).</small><br>
+    <!--input type="button" id="absbutton2" value="click to read abstract"><br>
+    <p id="abstract2" style="display:none;"><small>we study the problem of
+      scaling multinomial logistic regression (mlr) to datasets with very large
+      number of data points in the presence of large number of classes. at a
+    scale where neither data nor the parameters are able to fit on a single
+    machine, we argue that "simultaneous data and model parallelism (hybrid
+  parallelism)" is inevitable. the key challenge in achieving such a form of
+  parallelism in mlr is the log-partition function which needs to be computed
+"across all k classes" per data point, thus making model parallelism
+non-trivial. to overcome this problem, we propose a reformulation of the
+original objective that exploits "double-separability", an attractive property
+that naturally leads to hybrid parallelism. our algorithm (ds-mlr) is
+"asynchronous and completely de-centralized", requiring minimal communication
+across workers while keeping both data and parameter workloads partitioned.
+unlike standard data parallel approaches, ds-mlr "avoids bulk-synchronization"
+by maintaining local normalization terms on each worker and accumulating them
+incrementally using a token-ring topology. we demonstrate the versatility of
+ds-mlr under various scenarios in data and model parallelism, through an
+empirical study consisting of real-world datasets. in particular, to demonstrate
+scaling via hybrid parallelism, we created a new benchmark dataset (reddit-full)
+by pre-processing 1.7 billion reddit user comments spanning the period
+2007-2015. we used ds-mlr to solve an extreme multi-class classification problem
+of classifying 211 million data points into their corresponding subreddits.
+reddit-full is a massive data set with data occupying 228 gb and 44 billion
+parameters occupying 358 gb. to the best of our knowledge, no other existing
+methods can handle mlr in this setting. </small></p-->
+    <!-- 25 out of 215 (11.6%) -->
+  </li>
+  <li class="paper">
+    <span class="title">
+      extreme stochastic variational inference: distributed and asynchronous
+    <a href="static/pub/esvi-aistats19.pdf" style="color: #08c">[paper]</a>
+    <a href="static/pub/esvi-poster.pdf" style="color: #08c">[poster]</a>
+    <a href="static/pub/esvi-talk-labmeeting.pdf" style="color: #08c">[slides]</a><br>
+    </span>
+    <span class="me">parameswaran raman*</span>, jiong zhang*, shihao ji, hsiang-fu yu, s.v.n. vishwanathan, inderjit s. dhillon (* equally contributed)<br>
+    <b>international conference on artificial intelligence and statistics
+      (aistats), 2019</b><br>
+    <!--input type="button" id="absbutton1" value="click to read abstract"><br>
+    <p id="abstract1" style="display:none;"><small>mixture of exponential family models are among the most fundamental and widely used
+  statistical models. stochastic variational inference
+  (svi), the state-of-the-art algorithm for parameter estimation in such models is inherently 
+  serial. moreover, it requires the parameters to fit in the memory of a single processor;
+  this poses serious limitations on scalability when the number of parameters 
+  is in billions. in this paper, we present extreme stochastic variational inference (esvi), a
+  distributed, asynchronous and lock-free algorithm to perform variational inference
+  for mixture models on massive real world datasets. esvi
+  overcomes the limitations of svi by requiring that each processor only
+  access a subset of the data and a subset of the parameters, thus
+  providing data and model parallelism simultaneously. our empirical study demonstrates
+  that esvi not only outperforms vi and svi in wallclock-time, but also
+  achieves a better quality solution. 
+  to further speed up computation and save memory when fitting large
+  number of topics, we propose a variant esvi-topk which maintains only the top-k important topics.
+  empirically, we found that using top 25% topics suffices to achieve the same
+  accuracy as storing all the topics.</small></p-->
+  <!-- 25 out of 215 (11.6%) -->
+  </li>
+  <li class="paper">
+    <span class="title">
+      ranking via robust binary classification
+    <a href="http://papers.nips.cc/paper/5363-ranking-via-robust-binary-classification.pdf"
+      style="color: #08c">[paper]</a>
+    <a href="static/pub/robirank_poster.pdf" style="color: #08c">[poster]</a>
+    <a href="https://bitbucket.org/d_ijk_stra/robirank" style="color:
+    #08c">[code]</a><br>
+    </span>
+    hyokun yun, <span class="me">parameswaran raman</span>, s.v.n. vishwanathan <br>
+    <b>advances in neural information processing systems (nips), 2014 </b><br>
+    <!--input type="button" id="absbutton3" value="click to read abstract"><br>
+    <p id="abstract3" style="display:none;"><small>we propose robirank - a
+    learning to rank algorithm inspired by robust binary classification and show
+    that it scales well on large-data. the main idea behind robust binary
+    classification is to use transformation on convex losses to help give up
+    performance on hard to classify data points (outliers). <u>firstly</u>, we
+    observe that this is related to learning to rank, where we would not mind
+    sacrificing accuracy at the bottom of the ranking list in order to gain
+    performance at top of the list. we thus show that our ranking objective
+    function can be viewed as a generalization of robust binary classification.
+    <u>secondly</u>, minimizing robirank is equivalent to directly maximizing
+    dcg (a popular evaluation metric for listwise learning to rank). as a
+    result, robirank performs really well at the top of the list.
+    <u>thirdly</u>, using a linearization trick on our loss allows us to obtain
+    an unbiased stochastic gradient estimator so that our sgd optimizer becomes
+    independent of the size of the dataset. in addition, our algorithm is
+    parallelizable and can also be used to solve large-scale problems without
+    any explicit features. experimental results are shown on both medium and
+    very large datasets.</small></p-->
+    <!-- 25 out of 215 (11.6%) -->
+  </li>
+
+  <li class="paper">
+    <span class="title">
+      optimization on the surface of the (hyper)-sphere 
+      <a href="https://arxiv.org/abs/1909.06463" style="color: #08c">[pdf]</a> <br>
+    </span>
+      <b> tech report, 2014 </b><br>
+    <span class="me">parameswaran raman</span>, jiasen yang <br>
+    <!--input type="button" id="absbutton4" value="click to read abstract"><br>
+    <p id="abstract4" style="display:none;"><small>thomson problem is a classical problem in physics to study how
+n number of charged particles distribute themselves on the surface of a sphere of k dimensions. when k=2, i.e. a 
+2-sphere (a circle), the particles appear at equally spaced points. such a configuration can be computed analytically. 
+however, for higher dimensions such as k >= 3, i.e. the case of 3-sphere
+(standard sphere),  there is not much that is understood analytically. finding global minimum of the problem under 
+these settings is particularly tough since the optimization problem becomes increasingly computationally
+intensive with larger values of such as k and n.  in this work, we explore a wide variety of numerical optimization 
+methods to solve the thomson problem. in our empirical study, we find stochastic gradient based methods (sgd) 
+to be a compelling choice for this problem as it scales well with the number of
+points.</small></p-->
+    <!--b>course project, cs 520: computational methods in optimization (purdue
+      university)</b--> 
+  </li>
+  
+  <li class="paper">
+    <span class="title">
+      relevancy prediction of micro-blog questions in an educational setting
+      <a href="static/pub/poster_edm_2014.pdf" style="color: #08c">[short
+        paper]</a>
+      <br>
+    </span>
+    mariheida c&oacute;rdova s&aacute;nchez, <span class="me">parameswaran raman</span>, luo si, jason fish <br>
+    <b>proceedings of the 7th international conference on educational data
+      mining (edm), 2014 </b><br>
+    <!--input type="button" id="absbutton5" value="click to read abstract"><br>
+    <p id="abstract5" style="display:none;"><small> micro-blogging has become
+      increasingly popular in recent
+      years. using micro-blogging in a large classroom could be
+      beneficial for learning. however, sometimes addressing the
+      large number of posts could be cumbersome to a reader who
+      has only limited time in a classroom. we propose a novel
+      solution for predicting the relevancy of a question asked in a
+      class by looking at the questions asked in previous semesters,
+      the similarity of the question to the lecture material, as well
+      as a set of question features such as the number of students’ votes,
+      number of replies, the length of the question,
+      and whether it was asked anonymously. to identify similar
+      questions asked previously, topic modeling and feature selection are used.
+      empirical results show that topic modeling
+      leads to better prediction performance score as compared to
+      feature selection. the similarity of the question and its corresponding
+      lecture material further improves the relevancy
+      prediction of the questions.
+	</small></p-->
+    <!-- 25 out of 215 (11.6%) -->
+  </li>
+  <li class="paper">
+    <span class="title">
+        participatory design process for an in-vehicle affect detection and regulation system for various drivers 
+        <a href="static/pub/assets11_jeon.pdf" style="color: #08c">[pdf]</a><br>
+    </span>
+    myounghoon "philart" jeon, <span class="me">parameswaran raman</span>,
+    jung-bin yim, j b, bruce n. walker <br>
+    <b>proceedings of the 13th international acm sigaccess conference on computers and accessibility (assets), 2011</b><br>
+    <!--input type="button" id="absbutton6" value="click to read abstract"><br>
+    <p id="abstract6" style="display:none;"><small> considerable research has
+      shown that diverse affective (emotional) states influence cognitive
+      processes and performance. to detect a driver's affective states and
+      regulate them may help increase driving performance and safety. there are
+      some populations who are more vulnerable to issues regarding driving,
+      affect, and affect regulation (e.g., novice drivers, young drivers, older
+      drivers, and drivers with tbi (traumatic brain injury)). this paper
+      describes initial findings from multiple participatory design processes,
+      including interviews with 21 young drivers, and focus groups with a tbi
+      driver and two driver rehab specialists. depending on user groups, there
+      are distinct issues and needs; therefore, differentiated approaches are
+      needed to design an in-vehicle assistive technology system for a specific
+      target user group.</small></p-->
+  </li>
+  
+  <li class="paper">
+    <span class="title">
+        engin (exploring next generation in-vehicle interfaces): drawing a new conceptual framework through iterative participatory processes
+        <a href="static/pub/engin_automotiveui2011_philart.pdf" style="color: #08c">[pdf]</a><br>
+    </span>
+    myounghoon "philart" jeon, jonathan schuett, jung-bin yim, <span class="me">parameswaran raman</span>, bruce n. walker <br>
+    <b>proceedings of the 3rd international conference on automotive user
+      interfaces and interactive vehicular applications (automotiveui), 2011</b><br>
+    <!--input type="button" id="absbutton7" value="click to read abstract"><br>
+    <p id="abstract7" style="display:none;"><small> this paper presents an
+      initial stage of the engin (exploring
+      next generation in-vehicle interfaces) project. in order to
+      create next generation in-vehicle user interfaces, iterative
+      participatory processes were used: brainstorming, drawing
+      affinity diagrams, conducting focus groups, and hosting expert
+      panel sessions. through these various inputs, we tried to
+      balance among technology trends and feasibility, users’ needs,
+      and experts’ considerations. this explorative study approach is
+      expected to provide a blueprint of the automotive user
+      interfaces in the near future and to guide researchers in
+      academia and industry. </small></p-->
+  </li>
+  
+  <li class="paper">
+    <span class="title"> advanced auditory menus for universal access to electronic devices
+      <a href="static/pub/csun2010_extendedabstract_091102-bnw.pdf" style="color: #08c">[pdf]</a><br>
+    </span>
+    myounghoon "philart" jeon, benjamin davison, jeff wilson, <span class="me">parameswaran raman</span>, bruce n. walker <br>
+    <b>proceedings of international technology & persons with disabilities
+      conference (csun), 2010</b><br>
+  </li>
+  
+  <li class="paper">
+    <span class="title">
+      reducing repetitive development tasks in auditory menu displays with the auditory menu library
+      <a href="static/pub/aml_icad_2010.pdf" style="color: #08c">[pdf]</a><br>
+    </span>
+    <span class="me">parameswaran raman</span>, benjamin davison, myounghoon "philart" jeon, bruce n. walker <br>
+    <b>proceedings of the 16th international conference on auditory display (icad), 2010 </b><br>
+    <!--input type="button" id="absbutton8" value="click to read abstract"><br>
+    <p id="abstract8" style="display:none;"><small> this paper explores the
+      process of auditory menus research. several parts are tedious tasks which
+      must be repeated for minor changes to the experiment. fortunately many of these parts can be
+      automated with software. we present the auditory menu library
+      (aml), a tool for simplifying experiment construction. the aml
+      provides a cross-platform, configuration-based turnkey solution to
+      studies involving auditory menus. </small></p-->
+  </li>
+  <li class="paper">
+    <span class="title">
+      target score prediction in the game of cricket 
+      <a href="static/pub/ml_project_cs7641_report.pdf" style="color:
+    #08c">[pdf]</a>
+      <a href="static/pub/ml_project_cs7641.pdf" style="color:
+      #08c">[slides]</a> <br>
+    </span>
+    sethuraman k, <span class="me">parameswaran raman</span>, vijay ramakrishnan <br>
+    <!--b>course project, cs 7641: machine learning (georgia institute of
+      technology)</b> <br-->
+    <b> tech report, 2010 </b><br>
+    <!--input type="button" id="absbutton9" value="click to read abstract"><br>
+    <p id="abstract9" style="display:none;"><small> there has been a recent
+      increase in the use of technology in sports to increase
+      the fairness of the results. the objective of this paper is to apply
+      machine learning techniques to the game of cricket for target prediction in case
+      of interruption to the game. we first evaluate and identify some of the
+      shortcomings of the predominantly used duckworth - lewis method (d/l) for
+      target prediction. the data for this was obtained by crawling websites
+      which maintain statistics of cricket matches in the past and selected a set of
+      features which are most likely to affect the outcome of the game. then, we ran
+      feature estimation algorithms to identify the important features that help in
+      target prediction. then we discuss how the some of the shortcomings of d/l method
+      can be overcome with machine learning ideas. then we discuss regression
+      type algorithms which perform as well as d/l method but also take into
+      consideration some of the features that d/l overlooks. then we provide a
+      framework to compare the target prediction algorithms with one another.
+      finally we discuss the results of the machine learning algorithm against
+      benchmarks and ways to enhance the prediction models.</small></p-->
+  </li>
+  
+  <li class="paper">
+    <span class="title">
+      pix-c, pictures: express & communicate (augmenting communication with visual input for children in the autism spectrum) 
+      <a href="static/pub/pix-c_poster.pdf" style="color: #08c">[poster]</a>
+      <a href="static/pub/nlp_termproject.pdf" style="color: #08c">[slides]</a> <br>
+    </span>
+    narayanan ramakrishnan, <span class="me">parameswaran raman</span>, manohar ganesan, gourab kar, gregory d. abowd <br>
+    <!--b>course project, cs 7650: natural language (with ramakrishnan ch, suman
+      manjunath). extended work was presented as a poster at 23rd acm symposium on user interface
+      software and technology (uist), 2010</b> <br-->
+    <b>poster at 23rd acm symposium on user interface
+      software and technology (uist), 2010</b> <br>
+    <!--input type="button" id="absbutton10" value="click to read abstract"><br>
+    <p id="abstract10" style="display:none;"><small> autism spectrum disorders
+      (asd) are developmental disabilities characterized by difficulties with
+      social interactions, impairment in verbal and/or nonverbal communication,
+      and the development of repetitive, unusual, or highly-specialized
+      interests. the main symptoms of asd are particular social and language
+      problems. often, children with asds will have delays developing spoken
+      language. currently, language delays are the symptom that most commonly
+      captures the attention of parents or pediatricians and, consequently,
+      children are infrequently diagnosed before the age of 3 or 4 years. recent
+      estimates for all asds combined tend to fall between 20 and 80 per 10,000.
+      [1] unquestionably, there are more children being diagnosed with asd today
+      than ever before. this, in and of itself, presents a major public health
+      challenge. we hypothesize that some individuals on the autism spectrum exhibit a bias
+      towards using visual instead of verbal mental representations for various
+      tasks. this "thinking in pictures" form of cognition has been
+      introspectively reported by many individuals on the autism spectrum, such
+      as temple grandin, a high-functioning adult with autism who has written
+      several books touching on this notion. [2] we believe, the adaptive
+      keyboard with its dynamic display keys can augment communication in non-verbal 
+			children with autism disorder spectrum. the dynamic display feature of the keys enable programming
+      contextual visual cues that can augment communication. a collection of
+      visual cues and natural language processing algorithms work in combination
+      to allow a child to communicate with peers and adults.</small></p-->
+    <!--a href="http://www.naduism.com/projects/#adaptivekb">[video]</a-->
+  </li>
+  <li class="paper">
+    <span class="title">
+        pine-guided cache replacement policy for location-dependent data in mobile environment
+        <a href="static/pub/pine.pdf" style="color: #08c">[pdf]</a> <br>
+    </span>
+    mary magdalene jane, <span class="me">parameswaran raman</span>, nadarajan r, maytham safar <br>
+    <b>proceedings of the first international conference on pervasive
+      technologies related to assistive environments (petra), 2008</b><br>
+    <!--input type="button" id="absbutton11" value="click to read abstract"><br>
+    <p id="abstract11" style="display:none;"><small> caching frequently accessed
+      items on the mobile client is an important technique to enhance data
+      availability and to improve data access time. cache replacement policies
+      are used to find a suitable subset of items for eviction from the cache
+      due to limited cache size. the existing policies rely on euclidean space
+      and consider euclidean distance as an important parameter for eviction.
+      however, in practice the position and movement of objects are constrained
+      to spatial networks where the important distance measure is the network
+      distance. in this paper we propose a cache replacement policy, which
+      considers the network density, network distance and probability of access
+      as important factors for eviction. we make use of an already proven
+      technique called progressive incremental network expansion to compute the
+      network distance more efficiently. a series of simulation experiments have
+      been conducted to evaluate the performance of the policy. results indicate
+      that the proposed cache replacement scheme performs significantly better
+      than the existing policies far and paid and wprrp.</small></p-->
+  </li>
+  <li class="paper">
+    <span class="title">
+      weighted angular distance based cache replacement strategy for location-dependent data in wireless environment 
+      <a href="static/pub/widaap_cameraready_jordan.pdf" style="color:
+      #08c">[pdf]</a> <br>
+    </span>
+    <span class="me">parameswaran raman</span>, raghavendra prasad, nadarajan r, mary magdalene jane <br>
+    <b>proceedings of the dcca conference, jordan, 2007</b><br>
+    <!--input type="button" id="absbutton12" value="click to read abstract"><br>
+    <p id="abstract12" style="display:none;"><small> data caching at mobile
+      clients is an efficient mechanism to enhance data accessibility and reduce
+      access cost. in this paper, we study the issues of cache replacement for
+      locationdependent data under a geometric location model. considering
+      factors like probability, geometric location, direction of client motion
+      and data distance, we propose a cache replacement policy widaap(weighted
+      inverse distance angle and area-wise probability). we have conducted a
+      comparative performance study with existing popular cache replacement
+      policies, taking into account the randomness of motion and the data
+      distance motivated by user preference. the experimental results show that
+      the proposed replacement scheme is effective when the user preference is
+      considered and the policy significantly outperforms the conventional
+      replacement policies.</small></p-->
+  </li>
+</ul>
+
