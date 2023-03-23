@@ -192,9 +192,9 @@
             <!--li {% if page.section == 'courses'%} class="active" {% endif %} >
               <a href="courses.html">Courses</a>
             </li-->
-            <li {% if page.section == 'blog'%} class="active" {% endif %} >
+            <!--li {% if page.section == 'blog'%} class="active" {% endif %} >
               <a href="blog.html">Blog</a>
-            </li>
+            </li-->
             <!--li {% if page.section == 'links'%} class="active" {% endif %} >
               <a href="links.html">Random</a>
             </li-->
