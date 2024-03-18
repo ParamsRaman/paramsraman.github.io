@@ -66,34 +66,34 @@ We have exciting opportunities for PhD student interns to work on projects relat
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>Pre-print version of our work on Scalable Factorization Machines, <a href="https://paramsraman.github.io/static/pub/dsfacto.pdf">DS-FACTO: Doubly Separable Factorization Machines</a>, is available on ArXiv. 
+        <td>Pre-print version of our work on Scalable Factorization Machines, <a href="https://paramsraman.github.io/files/dsfacto.pdf">DS-FACTO: Doubly Separable Factorization Machines</a>, is available on ArXiv. 
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Delivered a talk on <a href="https://paramsraman.github.io/static/pub/mlr-kdd19.pdf">Scaling Multinomial Logistic Regression through Hybrid-Parallelism</a> at <a href="https://www.fiddler.ai/">Fiddler.ai</a>, Palo Alto.
+        <td>Delivered a talk on <a href="https://paramsraman.github.io/files/mlr-kdd19.pdf">Scaling Multinomial Logistic Regression through Hybrid-Parallelism</a> at <a href="https://www.fiddler.ai/">Fiddler.ai</a>, Palo Alto.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Delivered a talk on work done during my PhD thesis <a href="params_phd_thesis.pdf">Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models</a> at IBM Research, Almaden.
+        <td>Delivered a talk on work done during my PhD thesis <a href="https://paramsraman.github.io/files/params_phd_thesis.pdf">Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models</a> at IBM Research, Almaden.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2019]</strong></td>
-        <td>Defended my PhD dissertation titled <a href="params_phd_thesis.pdf">Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models</a>. 
+        <td>Defended my PhD dissertation titled <a href="https://paramsraman.github.io/files/params_phd_thesis.pdf">Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models</a>. 
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2019]</strong></td>
-        <td>Our paper <a href="https://paramsraman.github.io/static/pub/mlr-kdd19.pdf">Scaling Multinomial Logistic Regression via Hybrid Parallelism</a>,
+        <td>Our paper <a href="https://paramsraman.github.io/files/mlr-kdd19.pdf">Scaling Multinomial Logistic Regression via Hybrid Parallelism</a>,
         has been accepted to 
         <a href="https://www.kdd.org/kdd2019/">KDD, 2019.</a> as a <font color="red">Oral Presentation (9.16% acceptance rate)</font>.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2018]</strong></td>
-        <td>Our paper on scaling inference for mixture of exponential family models titled <a href="https://paramsraman.github.io/static/pub/mlr-kdd19.pdf">Extreme Stochastic Variational Inference: Distributed and Asynchronous</a>,
+        <td>Our paper on scaling inference for mixture of exponential family models titled <a href="https://paramsraman.github.io/files/mlr-kdd19.pdf">Extreme Stochastic Variational Inference: Distributed and Asynchronous</a>,
         has been accepted to 
         <a href="https://aistats.org/aistats2019/">AISTATS, 2019.</a>
         </td>
