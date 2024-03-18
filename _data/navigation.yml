@@ -1,0 +1,13 @@
+main:
+  - title: "welcome"
+    url: /index/
+  - title: "publications"
+    url: /publications/
+  - title: "experience"
+    url: /experience/
+  - title: "cv"
+    url: /cv/
+  - title: "contact"
+    url: /contact/
+
+  
