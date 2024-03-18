@@ -1,5 +1,0 @@
-auto: true
-baseurl: ""
-exclude: README.md, deploy.sh
-pygments: false
-highlighter: rouge
