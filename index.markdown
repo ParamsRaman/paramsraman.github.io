@@ -8,6 +8,7 @@ layout: single
 classes: wide
 title: Welcome
 author_profile: true
+permalink: /index/
 ---
 I am a Machine Learning scientist at Amazon AWS AI working on research and development of efficient optimization algorithms, large batch training and distributed training methods for pre-training large language models.   
 
