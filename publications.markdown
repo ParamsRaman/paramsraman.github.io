@@ -31,6 +31,7 @@ permalink: /publications/
 [DS-FACTO: Doubly Separable Factorization Machines]()  
 *Preprint, 2020*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2004.13940)
+[<button type="button" class="btn btn-info">Slides</button>](/files/dsfacto_slides.pdf)
 
 1. **Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan    
 [Scaling Multinomial Logistic Regression via Hybrid Parallelism]()  
@@ -79,7 +80,7 @@ Code is released under the Apache License ver 2.0.
 ### PhD Thesis 
 **Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models**  
 [<button type="button" class="btn btn-info">Thesis</button>](/files/params_phd_thesis.pdf)
-[<button type="button" class="btn btn-info">Slides</button>](https://www.slideshare.net/params/phd-dissertation-defense-200077345)
+[<button type="button" class="btn btn-info">Slides</button>](/files/phd_defense_slides.pdf)
 
 <!--Distributed parameter estimation algorithms in machine learning follow two main flavors: data parallel, where the data is distributed across multiple workers and model parallel, where the model parameters are partitioned across multiple workers. The main limitation of the first approach is that the model parameters need to be replicated on every machine. This is problematic when the number of parameters is very large, and hence cannot fit in a single machine. The drawback of the latter approach is that the data needs to be replicated on each machine. In this thesis, I propose Hybrid-Parallelism, an approach that allows us to partition both, the data as well as the model parameters
 simultaneously. As a result, each worker only needs access to a subset of the data and a subset of the parameters while performing parameter updates. I also develop novel reformulations for various large-scale problems which allow us to achieve such Hybrid-Parallelism. My work broadly covers four types of opular models: (1) Multinomial Logistic Regression (2) Mixture of Exponential Families, (3) Latent Collaborative Retrieval, and (4) Factorization Machines. In all cases, I show how to exploit the access pattern of parameter updates to derive Hybrid-Parallel asynchronous algorithms.-->
