@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 ### Publications
+1. Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
+[Variance-reduced Zero Order Optimization for LLM Fine-tuning]()  
+*Preprint, 2024*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.08080)
+
 1. Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  
 [MADA: Meta-Adaptive Optimizers through hyper-gradient Descent]()  
 *Preprint, 2024*  
