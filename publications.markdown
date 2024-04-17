@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 ### Publications
+1. Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hong  
+[EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence]()  
+*Preprint, 2024*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10575)
+
 1. Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
 [Variance-reduced Zero Order Optimization for LLM Fine-tuning]()  
 *Preprint, 2024*  
