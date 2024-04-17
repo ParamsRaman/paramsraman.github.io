@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 ### Publications
+1. Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
+[HLAT: High-quality Large Language Model Pre-trained on AWS Trainium]()  
+*Preprint, 2024*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10630)
+
 1. Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hong  
 [EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence]()  
 *Preprint, 2024*  
