@@ -81,6 +81,7 @@ Accepted as Oral Presentation (9.16 % acceptance rate).
 [Relevancy Prediction of Micro-blog Questions in an Educational Setting]()  
 *Proceedings of the 7th International Conference on Educational Data Mining (EDM), 2014*  
 [<button type="button" class="btn btn-info">ArXiv</button>](/files/Poster_EDM_2014.pdf)
+{: style="font-size:0.8em;"}
 
 ### Open Source Software
 * [<button type="button" class="btn btn-info">DS-MLR</button>](https://bitbucket.org/params/dsmlr) 
