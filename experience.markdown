@@ -71,8 +71,10 @@ During my PhD internships, I have worked on search relevance, learning to rank, 
 </table>
 
 My PhD research focussed on designing efficient distributed stochastic optimization algorithms for large-scale machine learning problems such as *Extreme classification* (multi-class/multi-label with large # labels and data points), *Extreme clustering* (mixture models with large # classes and data points) and *Scalable robust learning to rank* (large # of users and items).
+{: style="font-size:0.8em;"}
 
 I have experience in implementing parallel, asynchronous optimization algorithms in distributed memory settings (using C++, MPI) for a variety of machine learning models.
+{: style="font-size:0.8em;"}
 
 During my Masters, I worked in the Sonification Lab of Georgia Tech, with Prof Bruce Walker in developing non-traditional interfaces for Human Computer Interaction. Prototyped tools and contributed to research of Auditory Menus. Used affect-detection libraries (machine learning to detect mood of the drivers) as part of a Next-Gen In Vehicle Interface project. Participated in lab-demos, poster-presentations and co-authored four publications. During my Undergrad, I worked on developing efficient Caching Algorithms for Location-Dependent Data.
 {: style="font-size:0.8em;"}
