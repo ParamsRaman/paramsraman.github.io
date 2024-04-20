@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 **Industry**  
-At Amazon, I work on efficient algorithms and distributed methods for pre-training and fine-tuning LLMs. Before that, I worked in the personalization org at Yahoo! on developing machine learning models for Entity Matching, Entity Detection and built a Knowledge Graph from scratch to power Yahoo! websites. Prior to that, I worked at ThoughtWorks on building web services for the leading train ticket retailing system in the UK - <a href="https://www.thetrainline.com/en-us">thetrainline.com</a>.
+At Amazon, I work on efficient algorithms and distributed methods for pre-training and fine-tuning LLMs. Before that, I worked in the personalization org at Yahoo! on developing machine learning models for Entity Matching, Entity Detection and built a Knowledge Graph from scratch to power Yahoo! websites. Prior to that, I worked at ThoughtWorks as a Software Developer.
+{: style="font-size:0.8em;"}
 <table class='news-table'>
     <col width="30%">
     <col width="70%">
@@ -32,6 +33,7 @@ At Amazon, I work on efficient algorithms and distributed methods for pre-traini
 <br>
 **Internships**  
 During my PhD internships, I have worked on search relevance, learning to rank, recommender systems, text and document analysis and user behavior clustering. 
+{: style="font-size:0.8em;"}
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
@@ -73,6 +75,7 @@ My PhD research focussed on designing efficient distributed stochastic optimizat
 I have experience in implementing parallel, asynchronous optimization algorithms in distributed memory settings (using C++, MPI) for a variety of machine learning models.
 
 During my Masters, I worked in the Sonification Lab of Georgia Tech, with Prof Bruce Walker in developing non-traditional interfaces for Human Computer Interaction. Prototyped tools and contributed to research of Auditory Menus. Used affect-detection libraries (machine learning to detect mood of the drivers) as part of a Next-Gen In Vehicle Interface project. Participated in lab-demos, poster-presentations and co-authored four publications. During my Undergrad, I worked on developing efficient Caching Algorithms for Location-Dependent Data.
+{: style="font-size:0.8em;"}
 
 **Services**
 * PC member of AAAI Conference on Artificial Intelligence (AAAI)
@@ -86,3 +89,4 @@ During my Masters, I worked in the Sonification Lab of Georgia Tech, with Prof B
 * Reviewer of Journal of Machine Learning Research (JMLR)
 * Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * Senior Member, IEEE
+{: style="font-size:0.8em;"}
