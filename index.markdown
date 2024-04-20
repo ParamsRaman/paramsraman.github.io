@@ -32,6 +32,24 @@ We have exciting opportunities for PhD student interns to work on projects relat
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Apr 2024]</strong></td>
+        <td>Pre-print of our paper, <a href="https://arxiv.org/abs/2404.10630">HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</a>,
+        is available on ArXiv. 
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2024]</strong></td>
+        <td>Pre-print of our paper, <a href="https://arxiv.org/abs/2404.10575">EMC2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence</a>,
+        is available on ArXiv. 
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2024]</strong></td>
+        <td>Pre-print of our paper, <a href="https://arxiv.org/abs/2404.08080">Variance-reduced Zeroth-Order Methods for Fine-Tuning Language Models</a>,
+        is available on ArXiv. 
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jan 2024]</strong></td>
         <td>Our paper, <a href="https://arxiv.org/abs/2401.03058">Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</a>,
         has been accepted to 
