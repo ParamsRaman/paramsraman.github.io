@@ -10,7 +10,7 @@ title: Welcome
 author_profile: true
 permalink: /index/
 ---
-I am a Machine Learning scientist at Amazon AWS AI working on research and development of efficient optimization algorithms, large batch training and distributed training methods for pre-training large language models.   
+I am a Machine Learning scientist at Amazon AWS AI working on research and development of efficient optimization algorithms, large batch training and distributed training methods for pre-training/fine-tuning large language models.   
 
 My research interests lie in Large Scale Machine Learning, Optimization, Distributed Learning, and applications to real-world problems in NLP, Ranking & Recommender Systems and Information Retrieval. I am also interested in efficient parameter estimation techniques for bayesian models. I obtained my PhD in Computer Science from UC Santa Cruz working with Prof. S.V.N. Vishwanathan on hybrid-parallel and de-centralized stochastic optimization algorithms for large-scale machine learning models. Before that I received my Masters in Computer Science from Georgia Tech. 
 
@@ -25,6 +25,7 @@ Outside work, I love all forms of outdoor activities and sports most favorites b
 
 ***Internship opportunities in our group***  
 We have exciting opportunities for PhD student interns to work on projects related to optimization and large-scale training of deep learning models. Candidates are expected to have some background in design and implementation of optimization algorithms. Experience with distributed training frameworks (Deepspeed, Megatron, etc) and high-performance computing is a plus. Ideal outcomes from the internship include publication at top-tier conferences and community/product impact through the developed software. If you are interested, please get in touch with me.
+{: style="font-size:0.8em;"}
 
 <br>
 <h2 align="left"><font color="#FF0000">News</font></h2>
