@@ -26,7 +26,7 @@ Outside work, I love all forms of outdoor activities and sports most favorites b
   
 
 ***Internship opportunities in our group***  
-We have exciting opportunities for PhD student interns to work on projects related to optimization and large-scale training of deep learning models. Candidates are expected to have some background in design and implementation of optimization algorithms. Experience with distributed training frameworks (Deepspeed, Megatron, etc) and high-performance computing is a plus. Ideal outcomes from the internship include publication at top-tier conferences and community/product impact through the developed software. If you are interested, please get in touch with me.
+We have exciting opportunities for PhD student interns to work on projects related to optimization, large-scale training of deep learning models, LLMs. If you are interested, please get in touch with me.
 {: style="font-size:0.8em;"}
 
 <br>
