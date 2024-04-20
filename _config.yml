@@ -84,3 +84,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ZP31LZGS39"
+    anonymize_ip: false # default
