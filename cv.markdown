@@ -6,4 +6,5 @@ author_profile: true
 permalink: /cv/
 ---
 
-params_cv.pdf
+Contact me for my latest CV.
+{: style="font-size:0.8em;"}
