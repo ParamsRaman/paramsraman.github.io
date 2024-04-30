@@ -33,6 +33,7 @@ permalink: /publications/
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.03058)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/krylov-cubic-regularized-newton)
+[<button type="button" class="btn btn-info">Poster</button>](/files/Krylov_CRN_poster_AISTATS_2024.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/Slides_Krylov_CRN.pdf)
 
 1. Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgios B. Giannakis   
