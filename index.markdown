@@ -36,6 +36,11 @@ We have exciting opportunities for PhD student interns to work on projects relat
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Apr 2024]</strong></td>
+        <td> Three of our recent works <a href="https://arxiv.org/abs/2401.08893">MADA: Meta-Adaptive Optimizers through hyper-gradient Descent</a>, <a href="https://arxiv.org/abs/2404.10575">EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence</a> and <a href="https://arxiv.org/abs/2404.08080">Variance-reduced Zero Order Optimization for LLM Fine-tuning</a> got accepted to <a href="https://icml.cc/Conferences/2024/Dates">ICML 2024</a>. 
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2024]</strong></td>
         <td>Pre-print of our paper, <a href="https://arxiv.org/abs/2404.10630">HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</a>,
         is available on ArXiv. 
         </td>

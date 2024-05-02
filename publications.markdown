@@ -14,17 +14,17 @@ permalink: /publications/
 
 1. Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hong  
 [EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence]()  
-*Preprint, 2024*  
+*International Conference on Machine Learning, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10575)
 
 1. Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
 [Variance-reduced Zero Order Optimization for LLM Fine-tuning]()  
-*Preprint, 2024*  
+*International Conference on Machine Learning, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.08080)
 
 1. Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  
 [MADA: Meta-Adaptive Optimizers through hyper-gradient Descent]()  
-*Preprint, 2024*  
+*International Conference on Machine Learning, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.08893)
 [<button type="button" class="btn btn-info">Slides</button>](/files/MADA_final_presentation.pdf)
 
