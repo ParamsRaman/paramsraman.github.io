@@ -16,6 +16,7 @@ permalink: /publications/
 [EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence]()  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10575)
+[<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/contrastive_emc2)
 
 1. Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
 [Variance-reduced Zero Order Optimization for LLM Fine-tuning]()  
@@ -26,6 +27,7 @@ permalink: /publications/
 [MADA: Meta-Adaptive Optimizers through hyper-gradient Descent]()  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.08893)
+[<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mada_optimizer_search)
 [<button type="button" class="btn btn-info">Slides</button>](/files/MADA_final_presentation.pdf)
 
 1. Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher  
