@@ -7,8 +7,8 @@ permalink: /publications/
 ---
 
 ### Publications
-1. Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
-[HLAT: High-quality Large Language Model Pre-trained on AWS Trainium]()  
+1. HLAT: High-quality Large Language Model Pre-trained on AWS Trainium  
+Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
 *Preprint, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10630)
 
