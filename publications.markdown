@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 ### Publications
-1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium<b>  
+1. <em>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium<em>
 Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
 *Preprint, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10630)
@@ -24,14 +24,12 @@ Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.08080)
 
 1. <b>MADA: Meta-Adaptive Optimizers through hyper-gradient Descent</b>  
-Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  
-*International Conference on Machine Learning (ICML), 2024*  
+Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.08893)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mada_optimizer_search)
 [<button type="button" class="btn btn-info">Slides</button>](/files/MADA_final_presentation.pdf)
 
-1. <b>Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</b>  
-Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher  
+1. <b>Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</b>Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher  
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.03058)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/krylov-cubic-regularized-newton)
@@ -51,7 +49,6 @@ Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgio
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsfacto_slides.pdf)
 
 1. <b>Scaling Multinomial Logistic Regression via Hybrid Parallelism</b> 
-
 **Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019*  
 Accepted as Oral Presentation (9.16 % acceptance rate).   
@@ -112,8 +109,7 @@ Distributed parameter estimation algorithms in machine learning follow two main 
 ### Other publications during Masters and prior
 1. <b>Participatory Design Process for an In-Vehicle Affect Detection and Regulation System for Various Drivers</b>  
 Myounghoon "Philart" Jeon, **Parameswaran Raman**, Jung-Bin Yim, J B, Bruce N. Walker  
-*Proceedings of the 13th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS), 2011*  
-[<button type="button" class="btn btn-info">Paper</button>](/files/assets11_jeon.pdf)
+*Proceedings of the 13th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS), 2011*[<button type="button" class="btn btn-info">Paper</button>](/files/assets11_jeon.pdf)
 
 1. <b>ENGIN (Exploring Next Generation IN-vehicle INterfaces): Drawing a New Conceptual Framework through Iterative Participatory Processes</b>  
 Myounghoon "Philart" Jeon, Jonathan Schuett, Jung-Bin Yim, **Parameswaran Raman**, Bruce N. Walker  
