@@ -12,47 +12,46 @@ Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaura
 *Preprint, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10630)
 
-1. Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hong  
-[EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence</span> 
+Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hong  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10575)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/contrastive_emc2)
 
-1. Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
-[Variance-reduced Zero Order Optimization for LLM Fine-tuning]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Variance-reduced Zero Order Optimization for LLM Fine-tuning</span>
+Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.08080)
 
-1. Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  
-[MADA: Meta-Adaptive Optimizers through hyper-gradient Descent]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">MADA: Meta-Adaptive Optimizers through hyper-gradient Descent</span>  
+Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.08893)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mada_optimizer_search)
 [<button type="button" class="btn btn-info">Slides</button>](/files/MADA_final_presentation.pdf)
 
-1. Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher  
-[Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</span>  
+Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher  
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.03058)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/krylov-cubic-regularized-newton)
 [<button type="button" class="btn btn-info">Poster</button>](/files/Krylov_CRN_poster_AISTATS_2024.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/Slides_Krylov_CRN.pdf)
 
-1. Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgios B. Giannakis   
-[Contractive Error Feedback for Gradient Compression]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Contractive Error Feedback for Gradient Compression</span>  
+Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgios B. Giannakis   
 *Preprint, 2022*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2312.08538)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/BingcongLi/ConEF)
 [<button type="button" class="btn btn-info">Slides</button>](/files/ConEF_final_presentation.pdf)
 
-1. **Parameswaran Raman**, S.V.N. Vishwanathan   
-[DS-FACTO: Doubly Separable Factorization Machines]()  
-*Preprint, 2020*  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">DS-FACTO: Doubly Separable Factorization Machines</span>  
+**Parameswaran Raman**, S.V.N. Vishwanathan   
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2004.13940)
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsfacto_slides.pdf)
 
-1. **Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan    
-[Scaling Multinomial Logistic Regression via Hybrid Parallelism]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Scaling Multinomial Logistic Regression via Hybrid Parallelism</span> 
+**Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019*  
 Accepted as Oral Presentation (9.16 % acceptance rate).   
 [<button type="button" class="btn btn-info">Paper</button>](/files/mlr-kdd19.pdf)
@@ -61,27 +60,27 @@ Accepted as Oral Presentation (9.16 % acceptance rate).
 [<button type="button" class="btn btn-info">Poster</button>](/files/dsmlr_KDD19_poster.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsmlr_KDD19_slides_short.pdf)
 
-1. **Parameswaran Raman***, Jiong Zhang*, Shihao Ji, Hsiang-Fu Yu, S.V.N. Vishwanathan, Inderjit S. Dhillon (* equally contributed)   
-[Extreme Stochastic Variational Inference: Distributed and Asynchronous]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Extreme Stochastic Variational Inference: Distributed and Asynchronous</span>  
+**Parameswaran Raman***, Jiong Zhang*, Shihao Ji, Hsiang-Fu Yu, S.V.N. Vishwanathan, Inderjit S. Dhillon (* equally contributed) 
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2019*    
 [<button type="button" class="btn btn-info">Paper</button>](/files/esvi-aistats19.pdf)
 [<button type="button" class="btn btn-info">Poster</button>](/files/esvi-poster.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/esvi-talk-labmeeting.pdf)
 
-1. Hyokun Yun, **Parameswaran Raman**, S.V.N. Vishwanathan   
-[Ranking via Robust Binary Classification]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Ranking via Robust Binary Classification</span>  
+Hyokun Yun, **Parameswaran Raman**, S.V.N. Vishwanathan   
 *Advances in Neural Information Processing Systems (NeurIPS), 2014*  
 [<button type="button" class="btn btn-info">Paper</button>](https://proceedings.neurips.cc/paper_files/paper/2014/file/3d779cae2d46cf6a8a99a35ba4167977-Paper.pdf)
 [<button type="button" class="btn btn-info">Poster</button>](/files/RoBiRank_Poster.pdf)
 [<button type="button" class="btn btn-info">Code</button>](https://bitbucket.org/d_ijk_stra/robirank)
 
-1. **Parameswaran Raman**, Jiasen Yang   
-[Optimization on the surface of the (Hyper)-Sphere]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Optimization on the surface of the (Hyper)-Sphere</span>  
+**Parameswaran Raman**, Jiasen Yang   
 *Tech Report, 2014*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06463)
 
-1. Mariheida Córdova Sánchez, **Parameswaran Raman**, Luo Si, Jason Fish   
-[Relevancy Prediction of Micro-blog Questions in an Educational Setting]()  
+1. <span style="font-size=0.75em;font-style:italic;font-weight:bold;">Relevancy Prediction of Micro-blog Questions in an Educational Setting</span>  
+Mariheida Córdova Sánchez, **Parameswaran Raman**, Luo Si, Jason Fish   
 *Proceedings of the 7th International Conference on Educational Data Mining (EDM), 2014*  
 [<button type="button" class="btn btn-info">ArXiv</button>](/files/Poster_EDM_2014.pdf)
 {: style="font-size:0.7em;"}
