@@ -93,7 +93,7 @@ Hybrid-Parallel stochastic optimization algorithm for Multinomial Logistic Regre
 Hybrid-Parallel variational inference algorithm for Mixture of Exponential Family models with large number of data points and mixture components.
 * [<button type="button" class="btn btn-info">RoBiRank</button>](https://bitbucket.org/d_ijk_stra/robirank) 
 Robust and scalable ranking algorithm for Large Data (both learning to rank and latent collaborative retrieval).
-{: style="font-size:0.8em;"}
+{: style="font-size:0.7em;"}
 
 Code is released under the Apache License ver 2.0.
 {: style="font-size:0.8em;"}
