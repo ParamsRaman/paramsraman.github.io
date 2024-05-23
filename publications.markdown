@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 ### Publications
+<span style="font-size:0.8em;">
 1. <span style="color: blue">HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</span>  
 Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
 *Preprint, 2024*  
@@ -84,7 +85,7 @@ Accepted as Oral Presentation (9.16 % acceptance rate).
 [Relevancy Prediction of Micro-blog Questions in an Educational Setting]()  
 *Proceedings of the 7th International Conference on Educational Data Mining (EDM), 2014*  
 [<button type="button" class="btn btn-info">ArXiv</button>](/files/Poster_EDM_2014.pdf)
-{: style="font-size:0.5em;"}
+</span>
 
 ### Open Source Software
 * [<button type="button" class="btn btn-info">DS-MLR</button>](https://bitbucket.org/params/dsmlr) 
