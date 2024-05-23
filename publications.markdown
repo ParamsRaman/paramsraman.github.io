@@ -84,6 +84,7 @@ Accepted as Oral Presentation (9.16 % acceptance rate).
 [Relevancy Prediction of Micro-blog Questions in an Educational Setting]()  
 *Proceedings of the 7th International Conference on Educational Data Mining (EDM), 2014*  
 [<button type="button" class="btn btn-info">ArXiv</button>](/files/Poster_EDM_2014.pdf)
+{: style="font-size:0.6em;"}
 
 ### Open Source Software
 * [<button type="button" class="btn btn-info">DS-MLR</button>](https://bitbucket.org/params/dsmlr) 
@@ -92,10 +93,10 @@ Hybrid-Parallel stochastic optimization algorithm for Multinomial Logistic Regre
 Hybrid-Parallel variational inference algorithm for Mixture of Exponential Family models with large number of data points and mixture components.
 * [<button type="button" class="btn btn-info">RoBiRank</button>](https://bitbucket.org/d_ijk_stra/robirank) 
 Robust and scalable ranking algorithm for Large Data (both learning to rank and latent collaborative retrieval).
-{: style="font-size:0.5em;"}
+{: style="font-size:0.6em;"}
 
 Code is released under the Apache License ver 2.0.
-{: style="font-size:0.5em;"}
+{: style="font-size:0.6em;"}
 
 ### PhD Thesis 
 **Hybrid-Parallel Parameter Estimation for Bayesian and Frequentist Models**  
