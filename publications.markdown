@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 ### Publications
-1. <em>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium<em>
+1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium<b>
 Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
 *Preprint, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10630)
@@ -104,7 +104,7 @@ Code is released under the Apache License ver 2.0.
 simultaneously. As a result, each worker only needs access to a subset of the data and a subset of the parameters while performing parameter updates. I also develop novel reformulations for various large-scale problems which allow us to achieve such Hybrid-Parallelism. My work broadly covers four types of opular models: (1) Multinomial Logistic Regression (2) Mixture of Exponential Families, (3) Latent Collaborative Retrieval, and (4) Factorization Machines. In all cases, I show how to exploit the access pattern of parameter updates to derive Hybrid-Parallel asynchronous algorithms.-->
 
 Distributed parameter estimation algorithms in machine learning follow two main flavors: data parallel, where the data is distributed across multiple workers and model parallel, where the model parameters are partitioned across multiple workers. Neither of these are desirable approaches since they lead to replicating either data or model parameters. In order to scale to arbitrary sizes, it is imperative to distribute both, however this is not possible in many machine learning problems due to the tightly coupled optimization problem (for e.g. log-partition function in multinomial logistic regression). In this thesis, I develop alternative reformulations for various large-scale machine learning problems in order to enable Hybrid-Parallelism (simultaneous data and model parallelism). Morever, since each worker only needs access to a subset of the data and a subset of the parameters while performing parameter updates, bulk synchronization can be avoided. I demonstrate how to apply these ideas to four types of popular models: (1) [Multinomial Logistic Regression for large # of classes and examples](/files/dsmlr_KDD19_poster.pdf) (2) [Mixture of Exponential Families for large # of examples and clusters](/files/esvi-poster.pdf), (3) [Latent Collaborative Retrieval for large # of users and items](/files/RoBiRank_Poster.pdf), and (4) [Factorization Machines for large number of examples and features](https://arxiv.org/abs/2004.13940).
-{: style="font-size:0.8em;"}
+{: style="font-size:0.7em;"}
 
 ### Other publications during Masters and prior
 1. <b>Participatory Design Process for an In-Vehicle Affect Detection and Regulation System for Various Drivers</b>  
@@ -147,6 +147,6 @@ Mary Magdalene Jane, **Parameswaran Raman**, Nadarajan R, Maytham Safar
 **Parameswaran Raman**, Raghavendra Prasad, Nadarajan R, Mary Magdalene Jane   
 *Proceedings of the DCCA Conference, Jordan, 2007*  
 [<button type="button" class="btn btn-info">Paper</button>](/files/WIDAAP_cameraready_Jordan.pdf)
-{: style="font-size:0.8em;"}
+{: style="font-size:0.7em;"}
 
 <!--span style="font-size=0.75em;font-style:italic;font-weight:bold;"></span-->
