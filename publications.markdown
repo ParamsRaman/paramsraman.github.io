@@ -7,21 +7,22 @@ permalink: /publications/
 ---
 
 ### Publications
-1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</b>
+1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</b>  
 Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan  
 *Preprint, 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10630)
 
-1. <b>EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence</b> 
+1. <b>EMC^2: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence</b>  
 Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hong  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10575)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/contrastive_emc2)
 
-1. <b>Variance-reduced Zero Order Optimization for LLM Fine-tuning</b>
+1. <b>Variance-reduced Zero Order Optimization for LLM Fine-tuning</b>  
 Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.08080)
+[<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mezo_svrg)
 
 1. <b>MADA: Meta-Adaptive Optimizers through hyper-gradient Descent</b>  
 Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  *International Conference on Machine Learning (ICML), 2024*  
@@ -29,7 +30,8 @@ Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Br
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mada_optimizer_search)
 [<button type="button" class="btn btn-info">Slides</button>](/files/MADA_final_presentation.pdf)
 
-1. <b>Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</b>Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher  
+1. <b>Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</b>  
+Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher   
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.03058)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/krylov-cubic-regularized-newton)
@@ -48,7 +50,7 @@ Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgio
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2004.13940)
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsfacto_slides.pdf)
 
-1. <b>Scaling Multinomial Logistic Regression via Hybrid Parallelism</b> 
+1. <b>Scaling Multinomial Logistic Regression via Hybrid Parallelism</b>   
 **Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019*  
 Accepted as Oral Presentation (9.16 % acceptance rate).   
