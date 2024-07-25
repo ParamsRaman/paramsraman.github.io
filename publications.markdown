@@ -17,18 +17,21 @@ Chung-Yiu Yau, Hoi-To Wai, **Parameswaran Raman**, Soumajyoti Sarkar, Mingyi Hon
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.10575)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/contrastive_emc2)
+[<button type="button" class="btn btn-info">Poster</button>](/files/EMC_ContrastiveLearning_poster_ICML_2024.png)
 
 1. <b>Variance-reduced Zero Order Optimization for LLM Fine-tuning</b>  
 Tanmay Gautam, Youngsuk Park, Hou Zhou, **Parameswaran Raman**, Wooseok Ha  
 *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2404.08080)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mezo_svrg)
+[<button type="button" class="btn btn-info">Poster</button>](/files/MeZO_SVRG_poster_ICML_2024.png)
 
 1. <b>MADA: Meta-Adaptive Optimizers through hyper-gradient Descent</b>  
 Kaan Ozkara, Can Karakus, **Parameswaran Raman**, Mingyi Hong, Shoham Sabach, Branislav Kveton, Volkan Cevher  *International Conference on Machine Learning (ICML), 2024*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2401.08893)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/mada_optimizer_search)
 [<button type="button" class="btn btn-info">Slides</button>](/files/MADA_final_presentation.pdf)
+[<button type="button" class="btn btn-info">Poster</button>](/files/MADA_poster_ICML_2024.png)
 
 1. <b>Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate</b>  
 Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, Volkan Cevher   
