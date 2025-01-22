@@ -7,12 +7,12 @@ permalink: /publications/
 ---
 
 ### Publications
-1. <b>nuSAM: Memory-Efficient Sharpness-Aware Minimization via Nuclear Norm Constraints</b>&emsp;
+1. <b>nuSAM: Memory-Efficient Sharpness-Aware Minimization via Nuclear Norm Constraints</b>   
 Thomas Pethick, **Parameswaran Raman**, Lenon Minorics, Mingyi Hong, Shoham Sabach, Volkan Cevher
 *Transactions on Machine Learning Research, 2025*
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=V6ia5hWIMD)
 
-1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</b>&emsp;
+1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</b>   
 Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan
 *IEEE International Conference on Big Data, 2024*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2404.10630)
@@ -60,7 +60,7 @@ Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgio
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2004.13940)
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsfacto_slides.pdf)
 
-1. <b>Scaling Multinomial Logistic Regression via Hybrid Parallelism</b>   
+1. <b>Scaling Multinomial Logistic Regression via Hybrid Parallelism</b>    
 **Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019*
 Accepted as Oral Presentation (9.16 % acceptance rate).
