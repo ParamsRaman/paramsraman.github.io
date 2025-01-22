@@ -7,13 +7,17 @@ author_profile: true
 ---
 
 **Industry**  
-At Amazon, I work on efficient algorithms and distributed methods for pre-training and fine-tuning LLMs. Before that, I worked in the personalization org at Yahoo! on developing machine learning models for Entity Matching, Entity Detection and built a Knowledge Graph from scratch to power Yahoo! websites. Prior to that, I worked at ThoughtWorks as a Software Developer.
+At Amazon, I worked on efficient algorithms and distributed methods for pre-training and fine-tuning LLMs. Before that, I worked in the personalization org at Yahoo! on developing machine learning models for Entity Matching, Entity Detection and built a Knowledge Graph from scratch to power Yahoo! websites. Prior to that, I worked at ThoughtWorks as a Software Developer.
 {: style="font-size:0.8em;"}
 <table class='news-table'>
     <col width="30%">
     <col width="70%">
     <tr>
-        <td valign="top"><strong>Apr 2021 - Present</strong></td>
+        <td valign="top"><strong>Nov 2024 - Present</strong></td>
+        <td>Research Scientist, Meta, Menlo Park</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>Apr 2021 - Nov 2024</strong></td>
         <td>Applied Scientist, Amazon AWS AI, Santa Clara</td>
     </tr>
     <tr>
