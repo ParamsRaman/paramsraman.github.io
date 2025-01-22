@@ -35,7 +35,7 @@ We have exciting opportunities for PhD student interns to work on projects relat
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Dec 2024]</strong></td>
+        <td valign="top"><strong>[Jan 2025]</strong></td>
         <td> Our work on Memory Efficient Sharpness Aware Minimizer <a href="https://openreview.net/pdf?id=V6ia5hWIMD">nuSAM: Memory-Efficient Sharpness-Aware Minimization via Nuclear Norm Constraints</a> is accepted to <a href="https://jmlr.org/tmlr/index.html">Transactions on Machine Learning Research (TMLR) 2025</a>.
         </td>
     </tr>
