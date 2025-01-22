@@ -43,10 +43,10 @@ plugins:
 author:
   name: Parameswaran Raman
   avatar: "/images/params_pongal.jpg"
-  school: Amazon AWS AI
-  location: Santa Clara, CA
-  bio: "Machine Learning Scientist<br/>Amazon AWS AI"
-  email: parameshr@gmail.com
+  school: Meta
+  location: Menlo Park, CA
+  bio: "Research Scientist<br/>Meta"
+  email: params@meta.com
   twitter: paramsraman #username
   linkedin: parameswaranraman #username
   github: paramsraman

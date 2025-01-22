@@ -45,8 +45,8 @@ Ruichen Jiang, **Parameswaran Raman**, Shoham Sabach, Aryan Mokhtari, Mingyi Hon
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2401.03058)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/amazon-science/krylov-cubic-regularized-newton)
-[<button type="button" class="btn btn-info">Poster</button>](/files/Krylov_CRN_poster_AISTATS_2024.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/Slides_Krylov_CRN.pdf)
+[<button type="button" class="btn btn-info">Poster</button>](/files/Krylov_CRN_poster_AISTATS_2024.pdf)
 
 1. <b>Contractive Error Feedback for Gradient Compression</b>
 Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgios B. Giannakis
@@ -67,15 +67,15 @@ Accepted as Oral Presentation (9.16 % acceptance rate).
 [<button type="button" class="btn btn-info">Paper</button>](/files/mlr-kdd19.pdf)
 [<button type="button" class="btn btn-info">Code</button>](https://bitbucket.org/params/dsmlr)
 [<button type="button" class="btn btn-info">Promo Video</button>](https://www.youtube.com/watch?v=1YdTSldKVno)
-[<button type="button" class="btn btn-info">Poster</button>](/files/dsmlr_KDD19_poster.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsmlr_KDD19_slides_short.pdf)
+[<button type="button" class="btn btn-info">Poster</button>](/files/dsmlr_KDD19_poster.pdf)
 
 1. <b>Extreme Stochastic Variational Inference: Distributed and Asynchronous</b>
 **Parameswaran Raman***, Jiong Zhang*, Shihao Ji, Hsiang-Fu Yu, S.V.N. Vishwanathan, Inderjit S. Dhillon (* equally contributed)
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2019*
 [<button type="button" class="btn btn-info">Paper</button>](/files/esvi-aistats19.pdf)
-[<button type="button" class="btn btn-info">Poster</button>](/files/esvi-poster.pdf)
 [<button type="button" class="btn btn-info">Slides</button>](/files/esvi-talk-labmeeting.pdf)
+[<button type="button" class="btn btn-info">Poster</button>](/files/esvi-poster.pdf)
 
 1. <b>Ranking via Robust Binary Classification</b>
 Hyokun Yun, **Parameswaran Raman**, S.V.N. Vishwanathan
