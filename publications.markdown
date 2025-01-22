@@ -63,7 +63,8 @@ Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgio
 
 1. <b>Scaling Multinomial Logistic Regression via Hybrid Parallelism</b>    
 **Parameswaran Raman**, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan   
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019* Accepted as Oral Presentation (9.16 % acceptance rate).   
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019*    
+Accepted as Oral Presentation (9.16 % acceptance rate).   
 [<button type="button" class="btn btn-info">Paper</button>](/files/mlr-kdd19.pdf)
 [<button type="button" class="btn btn-info">Code</button>](https://bitbucket.org/params/dsmlr)
 [<button type="button" class="btn btn-info">Promo Video</button>](https://www.youtube.com/watch?v=1YdTSldKVno)
