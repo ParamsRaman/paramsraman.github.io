@@ -25,7 +25,7 @@ Outside work, I love all forms of outdoor activities and sports most favorites b
 -->
 
 
-***Internship opportunities in our group***
+***Internship opportunities in our group:***
 We have exciting opportunities for PhD student interns to work on projects related to optimization, large-scale training of deep learning models, LLMs. If you are interested and have strong research background with hands-on implementation experience please get in touch.
 {: style="font-size:0.8em;"}
 
