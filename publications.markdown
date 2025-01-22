@@ -7,12 +7,12 @@ permalink: /publications/
 ---
 
 ### Publications
-1. <b>nuSAM: Memory-Efficient Sharpness-Aware Minimization via Nuclear Norm Constraints</b>
+1. <b>nuSAM: Memory-Efficient Sharpness-Aware Minimization via Nuclear Norm Constraints</b>   
 Thomas Pethick, **Parameswaran Raman**, Lenon Minorics, Mingyi Hong, Shoham Sabach, Volkan Cevher
 *Transactions on Machine Learning Research, 2025*
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=V6ia5hWIMD)
 
-1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</b>
+1. <b>HLAT: High-quality Large Language Model Pre-trained on AWS Trainium</b>   
 Haozheng Fan, Hao Zhou, Guangtai Huang, **Parameswaran Raman**, Xinwei Fu, Gaurav Gupta, Dhananjay Ram, Yida Wang, Jun Huan
 *IEEE International Conference on Big Data, 2024*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2404.10630)
