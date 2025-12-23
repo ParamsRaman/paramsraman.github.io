@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 Email:
-parameshr[at] meta [dot] com
+params[at] meta [dot] com

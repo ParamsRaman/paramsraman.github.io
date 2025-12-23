@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 ### Publications
+1. <b>Smoothing DiLoCo with Primal Averaging for Faster Training of LLMs</b>    
+Aaron Defazio, Konstantin Mishchenko, **Parameswaran Raman**, Hao-Jun Michael Shi, Lin Xiao    
+*Preprint, 2025*    
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2512.17131)    
+
 1. <b>nuSAM: Memory-Efficient Sharpness-Aware Minimization via Nuclear Norm Constraints</b>   
 Thomas Pethick, **Parameswaran Raman**, Lenon Minorics, Mingyi Hong, Shoham Sabach, Volkan Cevher   
 *Transactions on Machine Learning Research, 2025*    
