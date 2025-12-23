@@ -63,6 +63,7 @@ Bingcong Li, Shuai Zheng, **Parameswaran Raman**, Anshumali Shrivastava, Georgio
 
 1. <b>DS-FACTO: Doubly Separable Factorization Machines</b>   
 **Parameswaran Raman**, S.V.N. Vishwanathan     
+*Preprint, 2020*       
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2004.13940)
 [<button type="button" class="btn btn-info">Slides</button>](/files/dsfacto_slides.pdf)
 
