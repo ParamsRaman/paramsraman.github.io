@@ -35,6 +35,11 @@ We have exciting opportunities for PhD student interns to work on projects relat
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Jan 2026]</strong></td>
+        <td> Our work on Adaptive Batch Sizes using Optimizer Dependent Gradient Noise Scales <a href="https://arxiv.org/abs/2602.03001">Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent</a>, is available on ArXiv.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Dec 2025]</strong></td>
         <td> Our work on Generalized Primal Averaging (GPA) <a href="https://arxiv.org/abs/2512.17131">Smoothing DiLoCo with Primal Averaging for Faster Training of LLMs</a>, is available on ArXiv.
         </td>

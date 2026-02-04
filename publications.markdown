@@ -7,6 +7,11 @@ permalink: /publications/
 ---
 
 ### Publications
+1. <b>Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent</b>    
+Hiroki Naganuma, Shagun Gupta, Youssef Briki, Ioannis Mitliagkas, Irina Rish, Parameswaran Raman, Hao-Jun Michael Shi
+*Preprint, 2026*    
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2602.03001)    
+
 1. <b>Smoothing DiLoCo with Primal Averaging for Faster Training of LLMs</b>    
 Aaron Defazio, Konstantin Mishchenko, **Parameswaran Raman**, Hao-Jun Michael Shi, Lin Xiao    
 *Preprint, 2025*    
