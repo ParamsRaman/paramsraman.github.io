@@ -35,6 +35,16 @@ We have exciting opportunities for PhD student interns to work on projects relat
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Apr 2026]</strong></td>
+        <td> Our work on Adaptive Batch Sizes using Optimizer Dependent Gradient Noise Scales <a href="https://arxiv.org/abs/2602.03001">Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent</a>, is accepted to ICML 2026.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2026]</strong></td>
+        <td> <a href="https://arxiv.org/abs/2602.03001">Code for our work on GPA (Generalized Primal Averaging)</a> our new optimizer for LLM training is available publicly.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jan 2026]</strong></td>
         <td> Our work on Adaptive Batch Sizes using Optimizer Dependent Gradient Noise Scales <a href="https://arxiv.org/abs/2602.03001">Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent</a>, is available on ArXiv.
         </td>
