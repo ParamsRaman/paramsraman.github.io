@@ -41,7 +41,7 @@ We have exciting opportunities for PhD student interns to work on projects relat
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2026]</strong></td>
-        <td> <a href="https://arxiv.org/abs/2602.03001">Code for our work on GPA (Generalized Primal Averaging)</a> our new optimizer for LLM training is available publicly.
+        <td> <a href="https://github.com/facebookresearch/optimizers/tree/main/gpa">Code for our work on GPA (Generalized Primal Averaging)</a> our new optimizer for LLM training is available publicly.
         </td>
     </tr>
     <tr>
